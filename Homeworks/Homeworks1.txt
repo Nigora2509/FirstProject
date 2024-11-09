@@ -258,3 +258,250 @@
             {
                 Console.WriteLine(" raqamlar teng emas ");
             }
+
+          
+
+            // task qiyin 13
+
+ //Console.Write(" Sonni kiriting: ");
+ //var number = Convert.ToInt32(Console.ReadLine());
+ //var ones = number % 10;
+ //var tens = number / 10;
+ //if (ones * tens > 20)
+ //{
+ //    Console.WriteLine(true);
+ //}
+ //else
+ //{
+ //    Console.WriteLine(false);
+ //}
+
+
+ //  task qiyin 14
+
+ //Console.Write(" Sonni kiriting: ");
+ //var number = Convert.ToInt32(Console.ReadLine());
+ //var ones = number % 10;
+ //var tens = number / 10;
+ //if (ones %2 != 0 && tens % 2  != 0)
+ //{
+ //    Console.WriteLine(true);
+ //}
+ //else
+ //{
+ //    Console.WriteLine(false);
+ //}
+
+
+ //  task qiyin 15
+
+ //Console.Write(" Sonni kiriting: ");
+ //var number = Convert.ToInt32(Console.ReadLine());
+ //var ones = number % 10;
+ //var tens = number / 10;
+ //if (ones > 5 && tens > 5)
+ //{
+ //    Console.WriteLine(true);
+ //}
+ //else
+ //{
+ //    Console.WriteLine(false);
+ //}
+
+
+ //  task qiyin 16
+
+ //Console.Write(" Sonni kiriting: ");
+ //var number = Convert.ToInt32(Console.ReadLine());
+
+ //if (number % 3 == 0)
+ //{
+ //    Console.WriteLine(true);
+ //}
+ //else
+ //{
+ //    Console.WriteLine(false);
+ //}
+
+
+ //  task qiyin 17
+
+ //Console.Write(" Sonni kiriting: ");
+ //var number = Convert.ToInt32(Console.ReadLine());
+
+ //if (number % 7 == 0)
+ //{
+ //    Console.WriteLine(true);
+ //}
+ //else
+ //{
+ //    Console.WriteLine(false);
+ //}
+
+ //  task qiyin 18
+
+ //Console.Write(" Sonni kiriting: ");
+ //var number = Convert.ToInt32(Console.ReadLine());
+
+ //if (number % 3 == 0 && number % 8 == 0)
+ //{
+ //    Console.WriteLine(true);
+ //}
+ //else
+ //{
+ //    Console.WriteLine(false);
+ //}
+
+ //  task qiyin 19
+
+ //Console.Write(" Sonni kiriting: ");
+ //var number = Convert.ToInt32(Console.ReadLine());
+
+ //if (number % 7 == 0 || number % 9 == 0)
+ //{
+ //    Console.WriteLine(true);
+ //}
+ //else
+ //{
+ //    Console.WriteLine(false);
+ //}
+
+ // task qiyin 21
+
+ //Console.Write(" Sonni kiriting: ");
+ //var number = Convert.ToInt32(Console.ReadLine());
+
+ //if (number % 5 != 0 )
+ //{
+ //    Console.WriteLine(true);
+ //}
+ //else
+ //{
+ //    Console.WriteLine(false);
+ //}
+
+ //  task qiyin 22
+
+ //Console.Write(" Sonni kiriting: ");
+ //var number = Convert.ToInt32(Console.ReadLine());
+
+ //if (number % 3 != 0 && number % 4 == 0)
+ //{
+ //    Console.WriteLine(true);
+ //}
+ //else
+ //{
+ //    Console.WriteLine(false);
+ //}
+
+ // task qiyin 23
+
+
+
+ //Console.Write("1 son kiriting : ");
+ //var firstNumber = Convert.ToInt32(Console.ReadLine());
+ //Console.Write("2 son kiriting : ");
+ //var secondNumber = Convert.ToInt32(Console.ReadLine());
+
+
+ //if (firstNumber > secondNumber)
+ //{
+ //    Console.WriteLine("True");
+ //}
+ //else
+ //{
+ //    Console.WriteLine("False");
+ //}
+
+
+ //  task qiyin 24
+
+
+
+ //Console.Write("1 son kiriting : ");
+ //var firstNumber = Convert.ToInt32(Console.ReadLine());
+ //Console.Write("2 son kiriting : ");
+ //var secondNumber = Convert.ToInt32(Console.ReadLine());
+
+
+ //if (firstNumber == secondNumber)
+ //{
+ //    Console.WriteLine("True");
+ //}
+ //else
+ //{
+ //    Console.WriteLine("False");
+ //}
+
+ // task jqiyin 25
+
+
+ //Console.Write("1 son kiriting : ");
+ //var firstNumber = Convert.ToInt32(Console.ReadLine());
+ //Console.Write("2 son kiriting : ");
+ //var secondNumber = Convert.ToInt32(Console.ReadLine());
+ //Console.Write("3 son kiriting : ");
+ //var thirdNumber = Convert.ToInt32(Console.ReadLine());
+
+ //if (firstNumber > secondNumber && firstNumber > thirdNumber)
+ //{
+ //    Console.WriteLine("True");
+ //}
+ //else
+ //{
+ //    Console.WriteLine("False");
+ //}
+
+ //  task jqiyin 26
+
+ //Console.Write("1 son kiriting : ");
+ //var firstNumber = Convert.ToInt32(Console.ReadLine());
+ //Console.Write("2 son kiriting : ");
+ //var secondNumber = Convert.ToInt32(Console.ReadLine());
+ //Console.Write("3 son kiriting : ");
+ //var thirdNumber = Convert.ToInt32(Console.ReadLine());
+
+ //if (thirdNumber > secondNumber && thirdNumber > firstNumber)
+ //{
+ //    Console.WriteLine("True");
+ //}
+ //else
+ //{
+ //    Console.WriteLine("False");
+ //}
+
+ // task jqiyin 27
+
+ //Console.Write("1 son kiriting : ");
+ //var firstNumber = Convert.ToInt32(Console.ReadLine());
+ //Console.Write("2 son kiriting : ");
+ //var secondNumber = Convert.ToInt32(Console.ReadLine());
+ //Console.Write("3 son kiriting : ");
+ //var thirdNumber = Convert.ToInt32(Console.ReadLine());
+
+ //if (firstNumber > secondNumber && thirdNumber > secondNumber)
+ //{
+ //    Console.WriteLine("True");
+ //}
+ //else
+ //{
+ //    Console.WriteLine("False");
+ //}
+
+
+ //  task j qiyin 30
+
+ Console.Write("1 son kiriting : ");
+ var firstNumber = Convert.ToInt32(Console.ReadLine());
+ Console.Write("2 son kiriting : ");
+ var secondNumber = Convert.ToInt32(Console.ReadLine());
+
+
+ if (firstNumber == 4 * secondNumber || secondNumber == 4 * firstNumber)
+ {
+     Console.WriteLine("True");
+ }
+ else
+ {
+     Console.WriteLine("False");
+ }
